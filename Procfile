@@ -1,1 +1,1 @@
-worker: python3 -m SmartConverter
+worker: python3 SmartConverter
