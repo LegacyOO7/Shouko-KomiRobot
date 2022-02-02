@@ -3,7 +3,7 @@
   "description": "A Normal Telegram Bot Which can Convert media.",
   "logo": "https://telegra.ph/file/4d45ccdd9a9efb5c20a01.jpg",
   "keywords": ["Telegram", "python", "Video", "Converter"],
-  "repository": "https://github.com/Parth-Senpai/Shouko-KomiRobot",
+  "repository": "https://github.com/LegacyOO7/Shouko-KomiRobot",
   "success_url": "/welcome",
   "stack": "container",
   "env": {
